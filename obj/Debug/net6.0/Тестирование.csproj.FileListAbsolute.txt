@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Учеба\C#\Тестирование\bin\Debug\net6.0\Тестирование.exe
+C:\Users\User\Desktop\Учеба\C#\Тестирование\bin\Debug\net6.0\Тестирование.deps.json
+C:\Users\User\Desktop\Учеба\C#\Тестирование\bin\Debug\net6.0\Тестирование.runtimeconfig.json
+C:\Users\User\Desktop\Учеба\C#\Тестирование\bin\Debug\net6.0\Тестирование.dll
+C:\Users\User\Desktop\Учеба\C#\Тестирование\bin\Debug\net6.0\Тестирование.pdb
+C:\Users\User\Desktop\Учеба\C#\Тестирование\obj\Debug\net6.0\Тестирование.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Учеба\C#\Тестирование\obj\Debug\net6.0\Тестирование.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Учеба\C#\Тестирование\obj\Debug\net6.0\Тестирование.AssemblyInfo.cs
+C:\Users\User\Desktop\Учеба\C#\Тестирование\obj\Debug\net6.0\Тестирование.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учеба\C#\Тестирование\obj\Debug\net6.0\Тестирование.dll
+C:\Users\User\Desktop\Учеба\C#\Тестирование\obj\Debug\net6.0\refint\Тестирование.dll
+C:\Users\User\Desktop\Учеба\C#\Тестирование\obj\Debug\net6.0\Тестирование.pdb
+C:\Users\User\Desktop\Учеба\C#\Тестирование\obj\Debug\net6.0\Тестирование.genruntimeconfig.cache
+C:\Users\User\Desktop\Учеба\C#\Тестирование\obj\Debug\net6.0\ref\Тестирование.dll
+C:\Users\User\Desktop\Учеба\C#\Тестирование\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Учеба\C#\Тестирование\obj\Debug\net6.0\Тестирование.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учеба\C#\Тестирование\obj\Debug\net6.0\Тестирование.csproj.CopyComplete
